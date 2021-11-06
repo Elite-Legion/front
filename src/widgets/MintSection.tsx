@@ -43,7 +43,7 @@ export function MintSection({
       <Header />
       <Section>
         <Cover>
-          <img src={cover} alt="You Warriors" />
+          <img src={cover} alt="Your Warriors" />
         </Cover>
         <MintSummary
           totalAvailable={totalAvailable}
